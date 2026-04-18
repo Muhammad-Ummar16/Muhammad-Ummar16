@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td align="center"><b>🚀 Specialty</b></td>
-    <td>MERN Stack Development</td>
+    <td>MERN Stack and DevOps Engineer</td>
   </tr>
   <tr>
     <td align="center"><b>📚 Learning</b></td>
